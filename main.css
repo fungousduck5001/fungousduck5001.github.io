@@ -1,0 +1,36 @@
+body{
+    background-color: yellow;
+    font-family: 'Sancreek', cursive;
+}
+
+#game{
+    color: purple;
+}
+
+#div{
+    background-color: pink;
+}
+
+#image{
+  width:10%;
+  display:inline-block;
+  margin:auto;
+  padding-left: 200px;
+  
+}
+
+#image2{
+  width:10%;
+  display:inline-block;
+  margin:auto;
+  padding: 30px;
+  
+}
+
+#image3{
+  width:10%;
+  display:inline-block;
+  margin:auto;
+  padding: 30px;
+  
+}
